@@ -27,4 +27,6 @@ git checkout -b nameNewBranch
 git branch -d nameNewBranch
 ```
 
-# ERROR TITLE
+```bash
+git checkout -b <name> <id commit>
+```
