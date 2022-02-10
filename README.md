@@ -1,4 +1,5 @@
 # Config git
+
 ```bash
 git config --global user.name "username"
 git config --global user.email "test@test.com"
@@ -18,4 +19,10 @@ git log
 git log --oneline
 ```
 
-# checkout branch
+```bash
+git branch
+git branch nameNewBranch
+git checkout nameNewBranch
+git checkout -b nameNewBranch
+git branch -d nameNewBranch
+```
