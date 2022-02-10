@@ -26,3 +26,7 @@ git checkout nameNewBranch
 git checkout -b nameNewBranch
 git branch -d nameNewBranch
 ```
+
+```bash
+git checkout -b <name> <id commit>
+```
