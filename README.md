@@ -13,4 +13,9 @@ git commit -m "init repo git"
 git status
 ```
 
+```bash
+git log
+git log --oneline
+```
+
 # checkout branch
