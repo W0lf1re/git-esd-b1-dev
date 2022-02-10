@@ -9,3 +9,8 @@ git add README.md
 git commit -m "init repo git"
 ```
 
+```bash
+git status
+```
+
+# checkout branch
